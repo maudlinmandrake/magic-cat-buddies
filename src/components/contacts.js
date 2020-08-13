@@ -2,14 +2,14 @@ const contacts = [
   {
     name: "Bee",
     imgURL:
-      "https://www.pngitem.com/pimgs/m/286-2868552_transparent-puppycat-png-bee-and-puppycat-transparent-png.png",
+      "https://frederatorstudios.com/app/uploads/2018/01/puppycat-icon-550x550.jpg",
     phone: "+123 456 789",
     email: "puppycat@2cute2poot.com"
   },
   {
     name: "Catbug",
     imgURL:
-      "https://vignette.wikia.nocookie.net/bravestwarriors/images/a/a4/Catbug_by_sircinnamon-d5riz9k.png",
+      "https://pbs.twimg.com/profile_images/523174422812037120/aLIBOTmj.jpeg",
     phone: "+987 654 321",
     email: "catbug@interdimensional.com"
   },
