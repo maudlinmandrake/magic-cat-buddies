@@ -5,7 +5,8 @@ import contacts from "./contacts";
 function App() {
   return (
     <div>
-      <h1 className="heading">My Contacts</h1>
+      <h1 className="heading">✨ Magic Cat Buddies ✨</h1>
+
       <Card
         name="Beyonce"
         img="https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg"

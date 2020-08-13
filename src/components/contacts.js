@@ -1,24 +1,24 @@
 const contacts = [
   {
-    name: "Beyonce",
+    name: "Bee",
     imgURL:
-      "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
+      "https://www.pngitem.com/pimgs/m/286-2868552_transparent-puppycat-png-bee-and-puppycat-transparent-png.png",
     phone: "+123 456 789",
-    email: "b@beyonce.com"
+    email: "puppycat@2cute2poot.com"
   },
   {
-    name: "Jack Bauer",
+    name: "Catbug",
     imgURL:
-      "https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg",
+      "https://vignette.wikia.nocookie.net/bravestwarriors/images/a/a4/Catbug_by_sircinnamon-d5riz9k.png",
     phone: "+987 654 321",
-    email: "jack@nowhere.com"
+    email: "catbug@interdimensional.com"
   },
   {
-    name: "Chuck Norris",
+    name: "Luna",
     imgURL:
-      "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",
+      "https://www.pngitem.com/pimgs/m/74-747238_moon-png-myedit-image-luna-sailor-moon-png.png",
     phone: "+918 372 574",
-    email: "gmail@chucknorris.com"
+    email: "luna@moonkingdom.com"
   }
 ];
 
