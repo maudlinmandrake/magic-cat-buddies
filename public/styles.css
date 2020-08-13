@@ -11,8 +11,7 @@ body {
 .heading {
   text-align: center;
   font-size: 2em;
-  font-family: "Bonbon", cursive;
-  text-transform: lowercase;
+  font-family: "Emilys Candy", "Times New Roman", Times, serif;
   color: #000;
   margin: 20px 0 30px;
 }
@@ -41,7 +40,7 @@ body {
 
 .name {
   font-size: 2em;
-  font-family: "Bonbon";
+  font-family: "Emilys Candy", "Times New Roman", Times, serif;
   color: #2d3436;
   display: flex;
   flex: 1;
